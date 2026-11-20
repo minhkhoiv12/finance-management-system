@@ -45,7 +45,7 @@ Trải nghiệm ngay sản phẩm với tài khoản dùng thử (dữ liệu k�
 
 ## 📖 Giới thiệu
 
-**Hệ thống Quản lý Tài chính Cá nhân** là ứng dụng web giúp người dùng ghi nhận, theo dõi và phân tích toàn bộ dòng tiền cá nhân — từ các khoản thu nhập, chi tiêu hằng ngày đến báo cáo tổng quan tài chính — tất cả trong một giao diện tiếng Việt thân thiện, định dạng tiền tệ VND.
+**Hệ thống Quản lý Tài chính Cá nhân** là ứng dụng web giúp người dùng ghi nhận, theo dõi và phân tích toàn bộ dòng tiền cá nhân — từ các khoản thu nhập, chi tiêu hằng ngày đến báo cáo tổng quan tài chính.
 
 ### ❓ Vấn đề cần giải quyết
 
